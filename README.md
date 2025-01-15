@@ -1,8 +1,8 @@
-# 💫 Hi There!...
+Hi There!👋
 
 I'm **Sithila Krishan**, a passionate developer with a keen interest in building innovative solutions. I'm excited to share my journey in coding and contribute to the community!
 
-## About Me
+💫About Me
 
 I am a developer who loves working on diverse projects and exploring new technologies. Currently, I have a couple of public repositories showcasing my work. I'm always eager to learn and grow in this ever-evolving field!
 
