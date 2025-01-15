@@ -1,4 +1,4 @@
-# 💫 About Me:## Hi there! 👋
+# 💫 About Me...
 
 I'm **Sithila Krishan**, a passionate developer with a keen interest in building innovative solutions. I'm excited to share my journey in coding and contribute to the community!
 
